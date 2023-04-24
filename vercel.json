@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "node-apis",
+    "name": "note-api",
     "builds": [
         {
             "src": "index.js",
